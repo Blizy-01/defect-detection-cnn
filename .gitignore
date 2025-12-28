@@ -1,0 +1,10 @@
+# Ignore the dataset
+data/
+
+# Ignore huge model files
+saved_models/*.h5
+
+# Ignore python cache files
+__pycache__/
+*.pyc
+.ipynb_checkpoints
